@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "git@github.com:elvinciqueira/bdd-with-cucumber.git",
   "author": "elvinciqueira <elvinciqueira@gmail.com>",
-  "license": "MIT"
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.0.0-rc.1",
+    "hamjest": "^3.7.3"
+  }
 }
