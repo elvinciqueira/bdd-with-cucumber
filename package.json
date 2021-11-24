@@ -1,0 +1,8 @@
+{
+  "name": "bdd-with-cucumber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:elvinciqueira/bdd-with-cucumber.git",
+  "author": "elvinciqueira <elvinciqueira@gmail.com>",
+  "license": "MIT"
+}
